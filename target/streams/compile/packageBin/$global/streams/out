@@ -1,0 +1,35 @@
+[0m[[0minfo[0m] [0mPackaging /home/rohit/scala/lin567_p1/target/scala-2.11/lin567_p1_2.11-1.0.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	lin567_p1/IO.class[0m
+[0m[[0mdebug[0m] [0m	  /home/rohit/scala/lin567_p1/target/scala-2.11/classes/lin567_p1/IO.class[0m
+[0m[[0mdebug[0m] [0m	lin567_p1/IO$.class[0m
+[0m[[0mdebug[0m] [0m	  /home/rohit/scala/lin567_p1/target/scala-2.11/classes/lin567_p1/IO$.class[0m
+[0m[[0mdebug[0m] [0m	lin567_p1/Language$.class[0m
+[0m[[0mdebug[0m] [0m	  /home/rohit/scala/lin567_p1/target/scala-2.11/classes/lin567_p1/Language$.class[0m
+[0m[[0mdebug[0m] [0m	lin567_p1/NaiveBayes$$anonfun$p_docAndLg$1.class[0m
+[0m[[0mdebug[0m] [0m	  /home/rohit/scala/lin567_p1/target/scala-2.11/classes/lin567_p1/NaiveBayes$$anonfun$p_docAndLg$1.class[0m
+[0m[[0mdebug[0m] [0m	lin567_p1/NaiveBayes$$anonfun$mostLikelyLanguage$1.class[0m
+[0m[[0mdebug[0m] [0m	  /home/rohit/scala/lin567_p1/target/scala-2.11/classes/lin567_p1/NaiveBayes$$anonfun$mostLikelyLanguage$1.class[0m
+[0m[[0mdebug[0m] [0m	lin567_p1/Run$$anonfun$main$1.class[0m
+[0m[[0mdebug[0m] [0m	  /home/rohit/scala/lin567_p1/target/scala-2.11/classes/lin567_p1/Run$$anonfun$main$1.class[0m
+[0m[[0mdebug[0m] [0m	lin567_p1/NaiveBayes.class[0m
+[0m[[0mdebug[0m] [0m	  /home/rohit/scala/lin567_p1/target/scala-2.11/classes/lin567_p1/NaiveBayes.class[0m
+[0m[[0mdebug[0m] [0m	lin567_p1/NaiveBayes$$anonfun$train$1$$anonfun$apply$1.class[0m
+[0m[[0mdebug[0m] [0m	  /home/rohit/scala/lin567_p1/target/scala-2.11/classes/lin567_p1/NaiveBayes$$anonfun$train$1$$anonfun$apply$1.class[0m
+[0m[[0mdebug[0m] [0m	lin567_p1[0m
+[0m[[0mdebug[0m] [0m	  /home/rohit/scala/lin567_p1/target/scala-2.11/classes/lin567_p1[0m
+[0m[[0mdebug[0m] [0m	lin567_p1/Run$.class[0m
+[0m[[0mdebug[0m] [0m	  /home/rohit/scala/lin567_p1/target/scala-2.11/classes/lin567_p1/Run$.class[0m
+[0m[[0mdebug[0m] [0m	lin567_p1/Document.class[0m
+[0m[[0mdebug[0m] [0m	  /home/rohit/scala/lin567_p1/target/scala-2.11/classes/lin567_p1/Document.class[0m
+[0m[[0mdebug[0m] [0m	lin567_p1/Run.class[0m
+[0m[[0mdebug[0m] [0m	  /home/rohit/scala/lin567_p1/target/scala-2.11/classes/lin567_p1/Run.class[0m
+[0m[[0mdebug[0m] [0m	lin567_p1/NaiveBayes$$anonfun$train$1.class[0m
+[0m[[0mdebug[0m] [0m	  /home/rohit/scala/lin567_p1/target/scala-2.11/classes/lin567_p1/NaiveBayes$$anonfun$train$1.class[0m
+[0m[[0mdebug[0m] [0m	lin567_p1/Language.class[0m
+[0m[[0mdebug[0m] [0m	  /home/rohit/scala/lin567_p1/target/scala-2.11/classes/lin567_p1/Language.class[0m
+[0m[[0mdebug[0m] [0m	lin567_p1/IO$$anonfun$readDocuments$1.class[0m
+[0m[[0mdebug[0m] [0m	  /home/rohit/scala/lin567_p1/target/scala-2.11/classes/lin567_p1/IO$$anonfun$readDocuments$1.class[0m
+[0m[[0mdebug[0m] [0m	lin567_p1/Document$.class[0m
+[0m[[0mdebug[0m] [0m	  /home/rohit/scala/lin567_p1/target/scala-2.11/classes/lin567_p1/Document$.class[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m
